@@ -1,6 +1,0 @@
-
-https://torchvision-0.10.1-cp36-cp36m-win_amd64.whl 
-https://download.pytorch.org/whl/cpu/torchvision-0.8.0-cp36-cp36m-linux_x86_64.whl
-fastai
-voila
-ipywidgets
